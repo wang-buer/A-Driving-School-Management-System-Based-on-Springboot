@@ -1,10 +1,6 @@
 # 基于springboot的驾校管理系统4
 
-## 获取方式
 
-扫描下方，回复关键词  ：**驾校4** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -37,47 +33,46 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191733949.jpg)
+![登录](https://www.codeshop.fun/%20Typora-Images/202309191733949.jpg)
 
 ### 4.2 前端模块
 
-![前端-驾校](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734453.jpg)
+![前端-驾校](https://www.codeshop.fun/%20Typora-Images/202309191734453.jpg)
 
-![前端-车辆](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734451.jpg)
+![前端-车辆](https://www.codeshop.fun/%20Typora-Images/202309191734451.jpg)
 
-![前端-报名](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734340.jpg)
+![前端-报名](https://www.codeshop.fun/%20Typora-Images/202309191734340.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-学员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734350.jpg)
+![管理员-学员管理](https://www.codeshop.fun/%20Typora-Images/202309191734350.jpg)
 
-![管理员-教练管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734019.jpg)
+![管理员-教练管理](https://www.codeshop.fun/%20Typora-Images/202309191734019.jpg)
 
-![管理员-驾校管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734337.jpg)
+![管理员-驾校管理](https://www.codeshop.fun/%20Typora-Images/202309191734337.jpg)
 
-![管理员-报名管理1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734479.jpg)
+![管理员-报名管理1](https://www.codeshop.fun/%20Typora-Images/202309191734479.jpg)
 
-![管理员-报名管理2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734893.jpg)
+![管理员-报名管理2](https://www.codeshop.fun/%20Typora-Images/202309191734893.jpg)
 
-![管理员-统计报表](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734238.jpg)
+![管理员-统计报表](https://www.codeshop.fun/%20Typora-Images/202309191734238.jpg)
 
-![管理员-车辆管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734435.jpg)
+![管理员-车辆管理](https://www.codeshop.fun/%20Typora-Images/202309191734435.jpg)
 
-![管理员-教练分配管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734583.jpg)
+![管理员-教练分配管理](https://www.codeshop.fun/%20Typora-Images/202309191734583.jpg)
 
-![管理员-考试预约](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734508.jpg)
+![管理员-考试预约](https://www.codeshop.fun/%20Typora-Images/202309191734508.jpg)
 
-![管理员-考勤打卡](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734489.jpg)
+![管理员-考勤打卡](https://www.codeshop.fun/%20Typora-Images/202309191734489.jpg)
 
-![管理员-考试管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191734730.jpg)
+![管理员-考试管理](https://www.codeshop.fun/%20Typora-Images/202309191734730.jpg)
 
 ### 4.4学员模块
 
-![学员-后端](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309191735834.jpg)
+![学员-后端](https://www.codeshop.fun/%20Typora-Images/202309191735834.jpg)
 
-## 5、视频演示
+## 获取方式
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一扫关注后，后台回复关键词：**驾校**，查看导入教程视频、sql脚本和源码等
 
-
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
